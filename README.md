@@ -1,12 +1,12 @@
-#📊 Credit Risk & Loan Approval Dashboard
+📊 Credit Risk & Loan Approval Dashboard
 
 A Power BI dashboard designed to analyze loan approval behavior, borrower demographics, credit scores, and portfolio risk. The goal is to provide financial insights that support data-driven lending decisions.
 
-#🚀 Project Overview
+🚀 Project Overview
 
 This project includes a fully interactive 2-page Power BI dashboard built using a cleaned loan dataset. It highlights key factors affecting approvals, loan distribution trends, and borrower risk profiles.
 
-#🛠 Tools & Technologies
+🛠 Tools & Technologies
 
 Power BI Desktop
 
@@ -14,7 +14,7 @@ Power Query
 
 Excel Data Processing
 
-#📈 Dashboard Features
+📈 Dashboard Features
 📍 Page 1 — Overview
 
 Approval Rate by Credit Score
@@ -39,7 +39,7 @@ Heatmap analysis
 
 Detailed demographic & financial indicators
 
-#🔍 Key Insights
+🔍 Key Insights
 
 Higher credit scores strongly increase approval rates
 
